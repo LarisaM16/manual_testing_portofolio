@@ -64,3 +64,28 @@
 
 ## 1.4 Test Design
 ##### Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
+![Test cases](https://user-images.githubusercontent.com/124587607/233123516-0b0d6627-31ae-43ae-a54b-39a1b6eaa4d9.png)
+![Test cases 2](https://user-images.githubusercontent.com/124587607/233123556-b83f428b-1e25-4b71-9d5b-33f44df09ec4.png)
+#### The test cases with steps can be viewed here: 
+#### For the Dependants API, the following checklist was generated:
+## 1.5 Test Implementation
+
+####  The following elements are needed to be ready before the test execution phase begins:
+##### • Testing environment is up and running: https://opensource-demo.orangehrmlive.com/
+##### • Access to the testing environment is given: Username : Admin | Password : admin123
+##### • Cycle summary was created
+##### • Test cases were added to the cycle summary
+##### • Postman collection with the dependents API methods was created
+##### • Authorization token was created for accessing the API
+## 1.6 Test Execution
+##### Test cases are executed on the created test Cycle summary:
+##### Bugs have been created based on the failed tests. The complete bug reports can be found here:
+##### API tests are executed based on the checklist. The collection used can be found here: 
+##### Full regression testing is needed after the bugs are fixed.
+## 1.7 Test Completion
+##### Exit criteria was evaluated and passed
+##### The traceability matrix was generated and can be found here:
+##### Test execution chart was generated, the final report shows that a number 10 tests have failed of a total of 57.
+##### A number of 57  test cases were planned for execution and all of them were executed.
+##### A number of 12 total bugs were found, whose priorities are: highest and high.
+![raport](https://user-images.githubusercontent.com/124587607/233128299-6d8602e0-b726-4f44-b814-e1afcf3b796a.png)
