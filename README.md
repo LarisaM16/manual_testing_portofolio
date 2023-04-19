@@ -89,3 +89,5 @@
 ##### A number of 57  test cases were planned for execution and all of them were executed.
 ##### A number of 12 total bugs were found, whose priorities are: highest and high.
 ![raport](https://user-images.githubusercontent.com/124587607/233128299-6d8602e0-b726-4f44-b814-e1afcf3b796a.png)
+## 2 SQL section
+#### I created a database called "orangeHRM_PIM_Module" which contains the following tables: "Employee", "skills", "Work_Experience", "Education", "languages" and "licenses" with all the necessary columns to save the data according to the specifications. I ran different queries inside the SQL file:
