@@ -53,20 +53,20 @@
 
 ## 1.3 Test Analysis
 #### The testing process will be executed based on the above requirements for the User Management and Job modules. The following test conditions were found:
-##### Enter data only for required fields and check if User Management and Job is created/updated
-##### Enter the data for all available fields and check if the users and jobs are created/updated
-##### Leave the required fields blank and check if User Management and Job cannot be created/updated
-##### View User Management and Job  details and verify that they are correct
-##### See all users and jobs in a list
-##### Check all validation constraints for fields
-##### Check all buttons functionality
-##### Check delete information
+##### - Enter data only for required fields and check if User Management and Job is created/updated;
+##### - Enter the data for all available fields and check if the users and jobs are created/updated;
+##### - Leave the required fields blank and check if User Management and Job cannot be created/updated;
+##### - View User Management and Job  details and verify that they are correct;
+##### - See all users and jobs in a list;
+##### - Check all validation constraints for fields;
+##### - Check all buttons functionality;
+##### - Check delete information;
 
 ## 1.4 Test Design
 ##### Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
 ![Test cases](https://user-images.githubusercontent.com/124587607/233123516-0b0d6627-31ae-43ae-a54b-39a1b6eaa4d9.png)
 ![Test cases 2](https://user-images.githubusercontent.com/124587607/233123556-b83f428b-1e25-4b71-9d5b-33f44df09ec4.png)
-#### The test cases with steps can be viewed here: 
+#### The test cases with steps can be viewed here: https://github.com/LarisaM16/manual_testing_portofolio/blob/a6a7719a8f305e4006d6c1f9850d90b2a1931a1d/Zephyr%20Test%20Steps%20+%20Executions%20(Jira).pdf
 #### For the Dependants API, the following checklist was generated:
 ## 1.5 Test Implementation
 
