@@ -41,8 +41,8 @@
 ##### •	Tests not in scope: performance testing, integrations of the "User Management" and "Job" module with other modules, compatibility testing with multiple browsers.
 
 ## 1.1.5 Risks detected
-##### •	Project Risks: Inexperience of QA team, short deadline for Zephyr Squad trial, unavailability of test environment
-##### •	Product risks: Validation constraints on the fields might be too restrictive to the end-user
+##### •	Project Risks: Inexperience of QA team, short deadline for Zephyr Squad trial, unavailability of test environment.
+##### •	Product risks: Validation constraints on the fields might be too restrictive to the end-user.
 
 ## 1.1.6 Evaluating entry criteria
 ### The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
@@ -73,18 +73,19 @@
 ####  The following elements are needed to be ready before the test execution phase begins:
 ##### • Testing environment is up and running: https://opensource-demo.orangehrmlive.com/
 ##### • Access to the testing environment is given: Username : Admin | Password : admin123
-##### • Cycle summary was created
-##### • Test cases were added to the cycle summary
-##### • Postman collection with the dependents API methods was created
-##### • Authorization token was created for accessing the API
+##### • Cycle summary was created.
+##### • Test cases were added to the cycle summary.
+##### • Postman collection with the dependents API methods was created.
+##### • Authorization token was created for accessing the API.
 ## 1.6 Test Execution
 ##### Test cases are executed on the created test Cycle summary:
-##### Bugs have been created based on the failed tests. The complete bug reports can be found here:
+##### Bugs have been created based on the failed tests. The complete bug reports can be found here: https://github.com/LarisaM16/manual_testing_portofolio/blob/b5878485f8ec9b186248589bc4d4280df315ca88/Bug%20reports.pdf
 ##### API tests are executed based on the checklist. The collection used can be found here: 
 ##### Full regression testing is needed after the bugs are fixed.
 ## 1.7 Test Completion
-##### Exit criteria was evaluated and passed
+##### Exit criteria was evaluated and passed.
 ##### The traceability matrix was generated and can be found here:
+https://github.com/LarisaM16/manual_testing_portofolio/blob/b5878485f8ec9b186248589bc4d4280df315ca88/Forward%20Traceability_2_5_2023%20(1).xlsx
 ##### Test execution chart was generated, the final report shows that a number 14 tests have failed of a total of 58.
 ##### A number of 58  test cases were planned for execution and all of them were executed.
 ##### A number of 14 total bugs were found, whose priorities are: highest and high.
