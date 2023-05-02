@@ -49,7 +49,7 @@
 
 ## 1.2 Test Monitoring and Control
 ##### Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after the completion of the test cases.
-![Test Cycle](https://user-images.githubusercontent.com/124587607/232850234-b7703da2-5df7-484e-a8e9-2bc0e0c92655.png)
+![Test Cycle](https://user-images.githubusercontent.com/124587607/235622834-249f96a4-c391-4b00-8a27-a51084ce0f47.png)
 
 ## 1.3 Test Analysis
 #### The testing process will be executed based on the above requirements for the User Management and Job modules. The following test conditions were found:
