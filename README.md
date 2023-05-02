@@ -93,5 +93,7 @@ https://github.com/LarisaM16/manual_testing_portofolio/blob/b5878485f8ec9b186248
 ## 2 SQL section
 #### I created a database called "orangeHRM_PIM_Module" which contains the following tables: "Employee", "skills", "Work_Experience", "Education", "languages" and "licenses" with all the necessary columns to save the data according to the specifications. I ran different queries inside the SQL file:
 https://github.com/LarisaM16/manual_testing_portofolio/blob/58e381e45111dd340906cd6fa489dfb2c00067fb/database.sql
+
 Here you can find the relationship between the tables: 
+
 https://github.com/LarisaM16/manual_testing_portofolio/blob/767f2431b6d36053b8cff65d3b37a71965b665b1/table_relatioship.sql.mwb
