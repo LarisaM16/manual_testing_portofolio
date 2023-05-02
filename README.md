@@ -85,9 +85,9 @@
 ## 1.7 Test Completion
 ##### Exit criteria was evaluated and passed
 ##### The traceability matrix was generated and can be found here:
-##### Test execution chart was generated, the final report shows that a number 10 tests have failed of a total of 57.
-##### A number of 57  test cases were planned for execution and all of them were executed.
-##### A number of 12 total bugs were found, whose priorities are: highest and high.
+##### Test execution chart was generated, the final report shows that a number 14 tests have failed of a total of 58.
+##### A number of 58  test cases were planned for execution and all of them were executed.
+##### A number of 14 total bugs were found, whose priorities are: highest and high.
 ![raport](https://user-images.githubusercontent.com/124587607/233128299-6d8602e0-b726-4f44-b814-e1afcf3b796a.png)
 ## 2 SQL section
 #### I created a database called "orangeHRM_PIM_Module" which contains the following tables: "Employee", "skills", "Work_Experience", "Education", "languages" and "licenses" with all the necessary columns to save the data according to the specifications. I ran different queries inside the SQL file:
