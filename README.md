@@ -37,7 +37,7 @@
 ##### •	Exploratory regression testing must be performed on the Admin section, which includes the "User Management" and "Job" module.
 
 ## 1.1.4 Test scope
-##### •	Tests in scope: All features of the "User Management" and "Job" module that have been defined in the software requirements specification must be tested: functional testing, GUI testing and API testing.
+##### •	Tests in scope: All features of the "User Management" and "Job"  module that have been defined in the software requirements specification must be tested: functional testing, GUI testing and API testing for "Simple Books" module.
 ##### •	Tests not in scope: performance testing, integrations of the "User Management" and "Job" module with other modules, compatibility testing with multiple browsers.
 
 ## 1.1.5 Risks detected
@@ -67,7 +67,9 @@
 ![Test cases](https://user-images.githubusercontent.com/124587607/233123516-0b0d6627-31ae-43ae-a54b-39a1b6eaa4d9.png)
 ![Test cases 2](https://user-images.githubusercontent.com/124587607/233123556-b83f428b-1e25-4b71-9d5b-33f44df09ec4.png)
 #### The test cases with steps can be viewed here: https://github.com/LarisaM16/manual_testing_portofolio/blob/a6a7719a8f305e4006d6c1f9850d90b2a1931a1d/Zephyr%20Test%20Steps%20+%20Executions%20(Jira).pdf
-#### For the Dependants API, the following checklist was generated:
+#### For the Simple Books API, the following postman_collection was generated:
+https://github.com/LarisaM16/manual_testing_portofolio/blob/0e1d21884307e0f8b062b1bbd0b57720818779cf/simpleBookAPI.postman_collection.json
+
 ## 1.5 Test Implementation
 
 ####  The following elements are needed to be ready before the test execution phase begins:
@@ -77,11 +79,17 @@
 ##### • Test cases were added to the cycle summary.
 ##### • Postman collection with the dependents API methods was created.
 ##### • Authorization token was created for accessing the API.
+
 ## 1.6 Test Execution
 ##### Test cases are executed on the created test Cycle summary:
-##### Bugs have been created based on the failed tests. The complete bug reports can be found here: https://github.com/LarisaM16/manual_testing_portofolio/blob/b5878485f8ec9b186248589bc4d4280df315ca88/Bug%20reports.pdf
-##### API tests are executed based on the checklist. The collection used can be found here: 
+##### Bugs have been created based on the failed tests.
+![Screenshot_108](https://user-images.githubusercontent.com/124587607/235654425-743dc23c-7acc-42a1-8255-e2f8eba8dda6.png)
+
+##### The complete bug reports can be found here: https://github.com/LarisaM16/manual_testing_portofolio/blob/b5878485f8ec9b186248589bc4d4280df315ca88/Bug%20reports.pdf
+##### API tests are executed based on the checklist. The collection used can be found here:
+https://github.com/LarisaM16/manual_testing_portofolio/blob/0e1d21884307e0f8b062b1bbd0b57720818779cf/simpleBookAPI.postman_test_run.json
 ##### Full regression testing is needed after the bugs are fixed.
+
 ## 1.7 Test Completion
 ##### Exit criteria was evaluated and passed.
 ##### The traceability matrix was generated and can be found here:
@@ -90,6 +98,7 @@ https://github.com/LarisaM16/manual_testing_portofolio/blob/b5878485f8ec9b186248
 ##### A number of 58  test cases were planned for execution and all of them were executed.
 ##### A number of 14 total bugs were found, whose priorities are: highest and high.
 ![raport](https://user-images.githubusercontent.com/124587607/233128299-6d8602e0-b726-4f44-b814-e1afcf3b796a.png)
+
 ## 2 SQL section
 ##### I created a database called "orangeHRM_PIM_Module" which contains the following tables: "Employee", "skills", "Work_Experience", "Education", "languages" and "licenses" with all the necessary columns to save the data according to the specifications. I ran different queries inside the SQL file:
 https://github.com/LarisaM16/manual_testing_portofolio/blob/58e381e45111dd340906cd6fa489dfb2c00067fb/database.sql
