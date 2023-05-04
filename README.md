@@ -106,3 +106,4 @@ https://github.com/LarisaM16/manual_testing_portofolio/blob/58e381e45111dd340906
 ##### Here you can find the relationship between the tables: 
 
 https://github.com/LarisaM16/manual_testing_portofolio/blob/767f2431b6d36053b8cff65d3b37a71965b665b1/table_relatioship.sql.mwb
+Bug reports.pdf
