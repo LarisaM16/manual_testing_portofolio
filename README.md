@@ -85,6 +85,8 @@ https://github.com/LarisaM16/manual_testing_portofolio/blob/0e1d21884307e0f8b062
 
 ## 1.6 Test Execution
 ##### Test cases are executed on the created test Cycle summary:
+https://github.com/LarisaM16/manual_testing_portofolio/blob/734e9fa1dbc8134465a7529f4fb9a93d40b32c71/Zephyr%20Test%20Steps%20+%20Executions%20+%20Results%20(Jira)%20(3).pdf
+
 ##### Bugs have been created based on the failed tests.
 ![Screenshot_108](https://user-images.githubusercontent.com/124587607/235654425-743dc23c-7acc-42a1-8255-e2f8eba8dda6.png)
 
