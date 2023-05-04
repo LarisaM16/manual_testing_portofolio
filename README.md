@@ -66,7 +66,10 @@
 ##### Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
 ![Test cases](https://user-images.githubusercontent.com/124587607/233123516-0b0d6627-31ae-43ae-a54b-39a1b6eaa4d9.png)
 ![Test cases 2](https://user-images.githubusercontent.com/124587607/233123556-b83f428b-1e25-4b71-9d5b-33f44df09ec4.png)
-#### The test cases with steps can be viewed here: https://github.com/LarisaM16/manual_testing_portofolio/blob/a6a7719a8f305e4006d6c1f9850d90b2a1931a1d/Zephyr%20Test%20Steps%20+%20Executions%20(Jira).pdf
+#### The test cases with steps can be viewed here: 
+
+https://github.com/LarisaM16/manual_testing_portofolio/blob/52f80f7605adbea6c0ffed756e7d6c4f0072abd6/Zephyr%20Test%20Steps%20+%20Executions%20(Jira).pdf
+
 #### For the Simple Books API, the following postman_collection was generated:
 https://github.com/LarisaM16/manual_testing_portofolio/blob/0e1d21884307e0f8b062b1bbd0b57720818779cf/simpleBookAPI.postman_collection.json
 
